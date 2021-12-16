@@ -1,3 +1,3 @@
 # ReplicatedDoorOpen
 
-Developed with Unreal Engine 4
+See my [blog post](https://snorristurluson.github.io/ReplicatedDoorOpen/) for information
